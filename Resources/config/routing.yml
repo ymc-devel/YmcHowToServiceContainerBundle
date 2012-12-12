@@ -1,0 +1,3 @@
+ymc_how_to_service_container_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: YmcHowToServiceContainerBundle:Default:index }
